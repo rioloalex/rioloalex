@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rioloalex
+- 👀 I’m interested in Data Science, AI, Machine Learning and Python
+- 🌱 I’m currently learning Data Science and Python
+- 💞️ I’m looking to collaborate on projects related to the things mentioned above.
+- 📫 How to reach me ...
